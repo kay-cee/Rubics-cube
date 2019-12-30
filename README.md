@@ -8,7 +8,7 @@ Use the command `pip install -r requirements.txt` to install the dependencies
 TBD
 
 ## Cube visualization
-![Full Cube](rubiks_cube.png)
+![Full Cube](https://github.com/kay-cee/Rubics-cube/tree/master/res/rubiks_cube.png)
 The rubik's cube is visualized in a `pygame` window using `OpenGl`. The cube is represented using faces, surfaces and points.
 **Face**: The cube has 6 faces, namely up, down, front, back, right and left
 **Surfaces**: The cube has stickers consisting of points. Each face looks as follows  (in terms of points):
@@ -32,10 +32,10 @@ The surfaces on each of the faces are as follows:****
 - The lateral surfaces are represented as given in **** assuming the when you see the lateral surface head on from outside the cube, the Up side is at the top of the cube and the Down side is at the bottom of the cube
 - The Up and Down surfaces of the cube are represented as given in **** assuming when you see the Up surface head on from outside the cube, the Back side of the cube is at the top and the Front side is at the bottom of the cube. When you see Down surface head on from outside the cube, you should see the Front surface at the top of the cube and Back surface at the bottom of the cube.
 
-Here are the examples of first 1, first 2 and first 5 surfaces of each face in the images folder:
-![First surface](cube_arrangement.png)
-![First 2 surfaces](cube_1_2.png)
-![First 5 surfaces](cube_1_5.png)
+Here are the examples of first 1, first 2 and first 5 surfaces of each face:
+![First surface](https://github.com/kay-cee/Rubics-cube/tree/master/res/cube_arrangement.png)
+![First 2 surfaces](https://github.com/kay-cee/Rubics-cube/tree/master/res/cube_1_2.png)
+![First 5 surfaces](https://github.com/kay-cee/Rubics-cube/tree/master/res/cube_1_5.png)
 
 
 ## Moving the cube
